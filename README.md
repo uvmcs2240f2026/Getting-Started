@@ -1,5 +1,5 @@
 # GitHub-with-CLion
-We will be using GitHub for all of the C++ Programming Projects this semester. You should bookmark the organization page on your preferred web browser: [https://github.com/uvmcs2240s2025](https://github.com/uvmcs2240s2025)
+We will be using GitHub for all of the C++ Programming Projects this semester. You should bookmark the organization page on your preferred web browser: [https://github.com/uvmcs2240s2026](https://github.com/uvmcs2240s2026)
 
 GitHub stores a remote copy of your project files, which you will be able to edit, add to, remove from, and track the history. It's kind of like Google Docs for code.
 
@@ -21,8 +21,9 @@ There are certain files that most GitHub repositories have:
 GitHub now requires access tokens (instead of passwords) for command line and third party use. This is something you will need to do once at the beginning of the semester.
 ## Create an access token
 Following the directions through this GitHub webpage to [create a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-* Set the expiration to at least 90 days (so that it lasts the entire semester).
+* Set the expiration to a custom date after the semester ends.
 * When selecting the permissions, check the options for `repo`, `workflow`, `read:org`, `gist`, `read:user`, `user:email`, and `delete_repo`.
+* Here is a [demo video of creating a personal access token](https://uvmoffice-my.sharepoint.com/:v:/g/personal/ldion2_uvm_edu/IQCBbvIsO_iPQ6NrcA1-5r75AYDA3jOJ_ItuDAzRLz9bp4g?e=w252F0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) for your convenience.
 
 ## Saving the access token
 If you have your github username and password saved on your keychain (or would like to), make sure you copy the token once you have created it and use that as the password.
@@ -32,7 +33,7 @@ In CLion, you will want to go to File -> Settings (Windows) or CLion -> Preferen
 
 # Creating a repository for a Programming Project
 * From the Project GitHub page, click the green "Use this template" button.
-    * Alternatively, from the organization page ([https://github.com/uvmcs2240s2025](https://github.com/uvmcs2240s2025)), click the green "New" button and choose the appropriate project from the "Repository template" dropdown.
+    * Alternatively, from the organization page ([https://github.com/uvmcs2240s2026](https://github.com/uvmcs2240s2026)), click the green "New" button and choose the appropriate project from the "Repository template" dropdown.
 * The owner defaults to the organization. Do NOT change it.
 * Choose a repository name, keeping with the required format in the  project directions.
 * You can optionally provide a description for the project. This is what shows up when the repositories are listed in the organization. You can also edit/complete it later.
